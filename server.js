@@ -77,5 +77,4 @@ function uploadDados() {
     }
     return date
 }
-
 http.listen(3333)
